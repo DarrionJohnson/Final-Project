@@ -1,0 +1,5002 @@
+[
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Lakewood City Pauceks",
+    "Player Name": "Griffin Schaden",
+    "Player Number": 23,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The San Antonio City Ziemes",
+    "Player Name": "Jason Ledner",
+    "Player Number": 26,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Rio Rancho City Hermans",
+    "Player Name": "Lucius Borer",
+    "Player Number": 86,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Bismarck City Quigleys",
+    "Player Name": "Helen Kunde",
+    "Player Number": 67,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 24
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The San Clemente City Simoniss",
+    "Player Name": "Elton Marquardt",
+    "Player Number": 68,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Mount Vernon City Ferrys",
+    "Player Name": "Leopoldo O'Reilly",
+    "Player Number": 84,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Hattiesburg City Douglass",
+    "Player Name": "Alycia Ratke",
+    "Player Number": 33,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Charleston City Huels",
+    "Player Name": "Etha Ondricka",
+    "Player Number": 82,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 24
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Alafaya City Rices",
+    "Player Name": "Fabian Rohan",
+    "Player Number": 44,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The West Babylon City Crists",
+    "Player Name": "Prudence Kuhlman",
+    "Player Number": 27,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Longmont City Deckows",
+    "Player Name": "Lee Ruecker",
+    "Player Number": 26,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Portland City Powlowskis",
+    "Player Name": "Eden Gusikowski",
+    "Player Number": 32,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Linden City Schimmels",
+    "Player Name": "Jairo Bergnaum",
+    "Player Number": 85,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Moline City Abernathys",
+    "Player Name": "Sophie Dach",
+    "Player Number": 96,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The South San Francisco City Jacobis",
+    "Player Name": "Donald Franecki",
+    "Player Number": 16,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Kenosha City Wests",
+    "Player Name": "Ernestine Cummerata",
+    "Player Number": 74,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Olathe City Walshs",
+    "Player Name": "Vito Kautzer",
+    "Player Number": 6,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Fullerton City Jaskolskis",
+    "Player Name": "Howard Reichel",
+    "Player Number": 84,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Manteca City Franeckis",
+    "Player Name": "Danika King",
+    "Player Number": 98,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Rancho Palos Verdes City Waterss",
+    "Player Name": "Misael Roberts",
+    "Player Number": 56,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Baton Rouge City Zulaufs",
+    "Player Name": "Reva Shields",
+    "Player Number": 4,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Auburn City Mayers",
+    "Player Name": "Emmie Hilpert",
+    "Player Number": 82,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Muncie City Watsicas",
+    "Player Name": "Emmet Funk",
+    "Player Number": 63,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Centennial City Wests",
+    "Player Name": "Heber Spencer",
+    "Player Number": 69,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Lakewood City Heidenreichs",
+    "Player Name": "Enid Emard",
+    "Player Number": 88,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The La Crosse City O'Connells",
+    "Player Name": "Russel Halvorson",
+    "Player Number": 69,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 24
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Seattle City Batzs",
+    "Player Name": "Kennith Schimmel",
+    "Player Number": 24,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Euclid City Rodriguezs",
+    "Player Name": "Louvenia Schroeder",
+    "Player Number": 66,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Portland City Kilbacks",
+    "Player Name": "Laurence Sawayn",
+    "Player Number": 1,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Gilroy City Cremins",
+    "Player Name": "Patrick Zboncak",
+    "Player Number": 52,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Independence City Kuvaliss",
+    "Player Name": "Brain Wiza",
+    "Player Number": 78,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Charleston City Berges",
+    "Player Name": "Rigoberto Stark",
+    "Player Number": 59,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Meridian City Legross",
+    "Player Name": "Elody Bins",
+    "Player Number": 8,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The DeSoto City Larkins",
+    "Player Name": "Jarret Braun",
+    "Player Number": 53,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Aurora City Thompsons",
+    "Player Name": "Ryley Lind",
+    "Player Number": 26,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The North Bethesda City Daughertys",
+    "Player Name": "Pearl Stracke",
+    "Player Number": 36,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 25
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Fountainebleau City Friesens",
+    "Player Name": "Adriel Lakin",
+    "Player Number": 17,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Corpus Christi City Sporers",
+    "Player Name": "Margaretta Lowe",
+    "Player Number": 1,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Greensboro City Huels",
+    "Player Name": "Andre Herzog",
+    "Player Number": 84,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Logan City Raynors",
+    "Player Name": "Sienna Bins",
+    "Player Number": 21,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Aliso Viejo City Rippins",
+    "Player Name": "Vicky Bailey",
+    "Player Number": 31,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Charlottesville City Corwins",
+    "Player Name": "Alysa Leffler",
+    "Player Number": 29,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 21
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Pico Rivera City Swaniawskis",
+    "Player Name": "Weston Schimmel",
+    "Player Number": 30,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 25
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Boise City City Baileys",
+    "Player Name": "Deion Ernser",
+    "Player Number": 30,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Casper City Turners",
+    "Player Name": "Horacio Emmerich",
+    "Player Number": 2,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Aloha City Marvins",
+    "Player Name": "Pauline Durgan",
+    "Player Number": 70,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Chicopee City Reillys",
+    "Player Name": "Abigayle Frami",
+    "Player Number": 59,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Grand Prairie City Caspers",
+    "Player Name": "Watson Parisian",
+    "Player Number": 29,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 12
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Jacksonville City Cartwrights",
+    "Player Name": "Rafael McGlynn",
+    "Player Number": 6,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Richland City Nitzsches",
+    "Player Name": "Turner Dietrich",
+    "Player Number": 80,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Fishers City Stehrs",
+    "Player Name": "Ian Renner",
+    "Player Number": 37,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Las Vegas City Dooleys",
+    "Player Name": "Ernestina Hammes",
+    "Player Number": 77,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 30
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Hendersonville City Littles",
+    "Player Name": "Jesse Lang",
+    "Player Number": 62,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Urbana City Lemkes",
+    "Player Name": "Roxane Littel",
+    "Player Number": 78,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Hacienda Heights City Kozeys",
+    "Player Name": "Kenna Schroeder",
+    "Player Number": 99,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Altadena City Hodkiewiczs",
+    "Player Name": "Faye Effertz",
+    "Player Number": 26,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Plainfield City Nienows",
+    "Player Name": "Grady Prosacco",
+    "Player Number": 56,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The North Miami Beach City Swifts",
+    "Player Name": "Imani Toy",
+    "Player Number": 35,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Schaumburg City Townes",
+    "Player Name": "Oral Kling",
+    "Player Number": 74,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Orange City Moores",
+    "Player Name": "Floy Konopelski",
+    "Player Number": 10,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Gilbert City Kunzes",
+    "Player Name": "Earl Hermann",
+    "Player Number": 38,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Covina City Kirlins",
+    "Player Name": "Gladyce Dietrich",
+    "Player Number": 42,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Decatur City Considines",
+    "Player Name": "Alize Dicki",
+    "Player Number": 63,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Utica City Olsons",
+    "Player Name": "Creola Howell",
+    "Player Number": 61,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Bellflower City Whites",
+    "Player Name": "Chandler Nienow",
+    "Player Number": 70,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 30
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Palm Springs City Pacochas",
+    "Player Name": "Pietro Heller",
+    "Player Number": 81,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Lexington-Fayette City Simoniss",
+    "Player Name": "Gilbert Botsford",
+    "Player Number": 89,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The East Hartford City Erdmans",
+    "Player Name": "Alena Block",
+    "Player Number": 98,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Bossier City City Corkerys",
+    "Player Name": "Heaven Breitenberg",
+    "Player Number": 49,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The East Hartford City Champlins",
+    "Player Name": "Xavier Beer",
+    "Player Number": 84,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Naperville City Millers",
+    "Player Name": "Alexzander Conroy",
+    "Player Number": 45,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The O'Fallon City Parisians",
+    "Player Name": "Jess Rice",
+    "Player Number": 41,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Carrollton City Haleys",
+    "Player Name": "Keenan Sipes",
+    "Player Number": 9,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 0
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Joplin City Harveys",
+    "Player Name": "Chadrick Bruen",
+    "Player Number": 1,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 30
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Bristol City Watsicas",
+    "Player Name": "Noemy Rath",
+    "Player Number": 5,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Jeffersonville City Schulists",
+    "Player Name": "Rosalind Will",
+    "Player Number": 88,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The O'Fallon City Rogahns",
+    "Player Name": "Nettie Orn",
+    "Player Number": 23,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 30
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Mansfield City Lynchs",
+    "Player Name": "Randall Romaguera",
+    "Player Number": 6,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Huntsville City Sanfords",
+    "Player Name": "Yvette Gorczany",
+    "Player Number": 46,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The North Miami City Wiegands",
+    "Player Name": "Kelley Lynch",
+    "Player Number": 9,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Reading City Schulists",
+    "Player Name": "Clinton Hudson",
+    "Player Number": 7,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 21
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Springfield City Hickles",
+    "Player Name": "Helmer Bins",
+    "Player Number": 11,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 12
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Fort Smith City Parkers",
+    "Player Name": "Damian Huel",
+    "Player Number": 53,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 24
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Milpitas City Feeneys",
+    "Player Name": "Adrienne Denesik",
+    "Player Number": 81,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Apopka City Carrolls",
+    "Player Name": "Macy Bradtke",
+    "Player Number": 52,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Greenville City Ullrichs",
+    "Player Name": "Domenico Fahey",
+    "Player Number": 75,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Victoria City Mayerts",
+    "Player Name": "Bettye Braun",
+    "Player Number": 24,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Peoria City Fays",
+    "Player Name": "Imani Rodriguez",
+    "Player Number": 72,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 30
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Kendale Lakes City Langoshs",
+    "Player Name": "Gay Hilll",
+    "Player Number": 12,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Chandler City Runolfsdottirs",
+    "Player Name": "Bonita Wehner",
+    "Player Number": 79,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Appleton City Rodriguezs",
+    "Player Name": "Vincent Jaskolski",
+    "Player Number": 0,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Peoria City Parkers",
+    "Player Name": "Brad Swaniawski",
+    "Player Number": 2,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Lawrence City Schumms",
+    "Player Name": "Ruben Satterfield",
+    "Player Number": 28,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 0
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Taunton City Kuhlmans",
+    "Player Name": "Makenna Lueilwitz",
+    "Player Number": 22,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The El Monte City Kings",
+    "Player Name": "Savannah Feeney",
+    "Player Number": 90,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 0
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Gilroy City Cummeratas",
+    "Player Name": "Justice Connelly",
+    "Player Number": 42,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Clifton City Parkers",
+    "Player Name": "Jeremy Mitchell",
+    "Player Number": 24,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Barnstable Town City Boscos",
+    "Player Name": "Pearlie Koss",
+    "Player Number": 25,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Hawthorne City Boyles",
+    "Player Name": "Frederic Lindgren",
+    "Player Number": 2,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Pine Bluff City Hickles",
+    "Player Name": "Mozell Herman",
+    "Player Number": 25,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Springdale City Starks",
+    "Player Name": "Darien O'Kon",
+    "Player Number": 35,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 24
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Passaic City Eberts",
+    "Player Name": "Norris Moore",
+    "Player Number": 43,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Jeffersonville City VonRuedens",
+    "Player Name": "Helen Yundt",
+    "Player Number": 64,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Hacienda Heights City Luettgens",
+    "Player Name": "Lorna Sporer",
+    "Player Number": 34,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Bend City Larkins",
+    "Player Name": "Mattie Sporer",
+    "Player Number": 83,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Portland City Blicks",
+    "Player Name": "Brando Goodwin",
+    "Player Number": 87,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Sandy Springs City Breitenbergs",
+    "Player Name": "Ernesto Ziemann",
+    "Player Number": 59,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Visalia City Sipess",
+    "Player Name": "Lisette Gerhold",
+    "Player Number": 2,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Providence City Linds",
+    "Player Name": "Judd Torphy",
+    "Player Number": 43,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Maple Grove City Greenfelders",
+    "Player Name": "Veda Corwin",
+    "Player Number": 65,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 12
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Napa City Leuschkes",
+    "Player Name": "Zackary McCullough",
+    "Player Number": 99,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Mission Viejo City Halvorsons",
+    "Player Name": "Ewald Gleason",
+    "Player Number": 12,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Madison City Langs",
+    "Player Name": "Holden Zulauf",
+    "Player Number": 83,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Marysville City Veums",
+    "Player Name": "Cassie Windler",
+    "Player Number": 30,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Jonesboro City Schuppes",
+    "Player Name": "Heather Stoltenberg",
+    "Player Number": 14,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Santa Clara City Parkers",
+    "Player Name": "Leon Jenkins",
+    "Player Number": 72,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The El Dorado Hills City Johnss",
+    "Player Name": "Meggie Schumm",
+    "Player Number": 90,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Evansville City Parisians",
+    "Player Name": "Monique Lubowitz",
+    "Player Number": 15,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 21
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Green Bay City Tremblays",
+    "Player Name": "Haven Williamson",
+    "Player Number": 89,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Skokie City Tillmans",
+    "Player Name": "Sebastian Weissnat",
+    "Player Number": 31,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Monroe City Rohans",
+    "Player Name": "London Labadie",
+    "Player Number": 26,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Salem City Reingers",
+    "Player Name": "River Quigley",
+    "Player Number": 48,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Kennewick City Bartons",
+    "Player Name": "D'angelo Harber",
+    "Player Number": 56,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Peoria City Purdys",
+    "Player Name": "Archibald Schulist",
+    "Player Number": 39,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Sammamish City Wills",
+    "Player Name": "Agustina Schinner",
+    "Player Number": 65,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Green Bay City Linds",
+    "Player Name": "Isai Dach",
+    "Player Number": 24,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The St. Cloud City Pacochas",
+    "Player Name": "Chesley Denesik",
+    "Player Number": 24,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The New Haven City Cassins",
+    "Player Name": "Enoch Klocko",
+    "Player Number": 4,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Malden City Boscos",
+    "Player Name": "Valentine Koelpin",
+    "Player Number": 26,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Waukegan City Powlowskis",
+    "Player Name": "Ralph Nitzsche",
+    "Player Number": 99,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Amarillo City Cormiers",
+    "Player Name": "Mollie Streich",
+    "Player Number": 87,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Pittsfield City Schowalters",
+    "Player Name": "Emma Pacocha",
+    "Player Number": 18,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Johnson City City Donnellys",
+    "Player Name": "Danielle Gutkowski",
+    "Player Number": 15,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Bountiful City Flatleys",
+    "Player Name": "Dejah Cassin",
+    "Player Number": 22,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Grand Rapids City Dickinsons",
+    "Player Name": "Greg Deckow",
+    "Player Number": 2,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Waukesha City Conroys",
+    "Player Name": "Pietro Howe",
+    "Player Number": 62,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Schenectady City Wildermans",
+    "Player Name": "Candelario Crooks",
+    "Player Number": 89,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Potomac City Kohlers",
+    "Player Name": "Orlo Quitzon",
+    "Player Number": 42,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Rochester Hills City Gibsons",
+    "Player Name": "Jaylan Schroeder",
+    "Player Number": 28,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Springdale City Schmidts",
+    "Player Name": "Jarvis Abernathy",
+    "Player Number": 15,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Gary City D'Amores",
+    "Player Name": "Michel Powlowski",
+    "Player Number": 57,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Compton City Ferrys",
+    "Player Name": "Mariah Lubowitz",
+    "Player Number": 35,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Oshkosh City Webers",
+    "Player Name": "Anya Leannon",
+    "Player Number": 6,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Miami Beach City Nitzsches",
+    "Player Name": "Reyna Lindgren",
+    "Player Number": 62,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Honolulu City Kubs",
+    "Player Name": "Carlos Jenkins",
+    "Player Number": 92,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Taunton City Gorczanys",
+    "Player Name": "Sheila Stroman",
+    "Player Number": 94,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Detroit City Schadens",
+    "Player Name": "Noble Labadie",
+    "Player Number": 84,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Berwyn City Muellers",
+    "Player Name": "Pearl Breitenberg",
+    "Player Number": 53,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Tigard City Wunschs",
+    "Player Name": "Porter Emard",
+    "Player Number": 93,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Columbus City Mayers",
+    "Player Name": "Princess Cremin",
+    "Player Number": 74,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Joliet City Gorczanys",
+    "Player Name": "Kacie Funk",
+    "Player Number": 93,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Seattle City Klings",
+    "Player Name": "Kale Nikolaus",
+    "Player Number": 28,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The East Lansing City Murrays",
+    "Player Name": "Lelah Schmitt",
+    "Player Number": 75,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Greenwood City Waterss",
+    "Player Name": "Yesenia Von",
+    "Player Number": 46,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Bellevue City Schmidts",
+    "Player Name": "Justina Kautzer",
+    "Player Number": 66,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Victorville City Kings",
+    "Player Name": "Laurianne Wyman",
+    "Player Number": 18,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Kettering City Schroeders",
+    "Player Name": "Clair Barton",
+    "Player Number": 36,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Hempstead City Wolffs",
+    "Player Name": "Vernice Nader",
+    "Player Number": 14,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Hoover City Connellys",
+    "Player Name": "Grover Kuvalis",
+    "Player Number": 18,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 0
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Evansville City Naders",
+    "Player Name": "Darrell Mitchell",
+    "Player Number": 39,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Richmond City Boyers",
+    "Player Name": "Triston Bogisich",
+    "Player Number": 94,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The North Richland Hills City Streichs",
+    "Player Name": "Javonte Schoen",
+    "Player Number": 41,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Salt Lake City City Grahams",
+    "Player Name": "Nova Murphy",
+    "Player Number": 93,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Euclid City Flatleys",
+    "Player Name": "Erna D'Amore",
+    "Player Number": 80,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Cincinnati City Beahans",
+    "Player Name": "Nikita Yost",
+    "Player Number": 17,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Detroit City Cassins",
+    "Player Name": "Jennings Jacobson",
+    "Player Number": 5,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 25
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Round Rock City Tillmans",
+    "Player Name": "Efrain Runolfsson",
+    "Player Number": 28,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 0
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Springfield City Reingers",
+    "Player Name": "Roma Dicki",
+    "Player Number": 82,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Reading City Markss",
+    "Player Name": "Aurelie Schuster",
+    "Player Number": 63,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Davis City Prices",
+    "Player Name": "Nico Fahey",
+    "Player Number": 93,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Rancho Santa Margarita City Wolffs",
+    "Player Name": "Frida Roob",
+    "Player Number": 48,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Scottsdale City Naders",
+    "Player Name": "Hillard Stoltenberg",
+    "Player Number": 67,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Urbana City Wills",
+    "Player Name": "Martina Bergstrom",
+    "Player Number": 59,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Wilson City Manns",
+    "Player Name": "Ayden O'Reilly",
+    "Player Number": 11,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Pine Bluff City Keelings",
+    "Player Name": "Rafaela Bartoletti",
+    "Player Number": 56,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Tulsa City Kundes",
+    "Player Name": "Brant Kuhlman",
+    "Player Number": 2,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Sayreville City Nicolass",
+    "Player Name": "Simeon Brekke",
+    "Player Number": 67,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Pasadena City Volkmans",
+    "Player Name": "Murl Goodwin",
+    "Player Number": 91,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Provo City Gislasons",
+    "Player Name": "Sterling Schimmel",
+    "Player Number": 46,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Waukesha City Ziemes",
+    "Player Name": "August Turner",
+    "Player Number": 94,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The DeKalb City Sporers",
+    "Player Name": "Eldora Sporer",
+    "Player Number": 8,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Brookhaven City Crookss",
+    "Player Name": "Alan Lindgren",
+    "Player Number": 92,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Danville City Whites",
+    "Player Name": "Mariah Legros",
+    "Player Number": 13,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Citrus Heights City Waelchis",
+    "Player Name": "Itzel Koch",
+    "Player Number": 64,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Kansas City City Sauers",
+    "Player Name": "Chaya Hickle",
+    "Player Number": 71,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Santa Fe City Uptons",
+    "Player Name": "Alysha Beatty",
+    "Player Number": 88,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 25
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Baytown City Turcottes",
+    "Player Name": "Finn Hahn",
+    "Player Number": 58,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Palm Harbor City Bogans",
+    "Player Name": "Raleigh Ortiz",
+    "Player Number": 62,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Fresno City Bahringers",
+    "Player Name": "Kenyon Quigley",
+    "Player Number": 11,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Bellevue City Nienows",
+    "Player Name": "Darius Rosenbaum",
+    "Player Number": 73,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 24
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Peoria City Leannons",
+    "Player Name": "Newell Hudson",
+    "Player Number": 61,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The St. Louis Park City Volkmans",
+    "Player Name": "Estevan Marvin",
+    "Player Number": 13,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Portage City Lockmans",
+    "Player Name": "Pierre Hammes",
+    "Player Number": 0,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 12
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Santee City Kochs",
+    "Player Name": "Merritt Crist",
+    "Player Number": 46,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Clovis City Wildermans",
+    "Player Name": "Jo Predovic",
+    "Player Number": 26,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Madison City Hintzs",
+    "Player Name": "Angeline Kub",
+    "Player Number": 81,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 30
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Pomona City Fays",
+    "Player Name": "Amber Emmerich",
+    "Player Number": 39,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Austin City Prosaccos",
+    "Player Name": "Mateo Turcotte",
+    "Player Number": 9,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Chicopee City Hillls",
+    "Player Name": "Emile Klocko",
+    "Player Number": 81,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Weston City Nikolauss",
+    "Player Name": "Kenna D'Amore",
+    "Player Number": 30,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Manteca City Runolfsdottirs",
+    "Player Name": "Kennedy Littel",
+    "Player Number": 38,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Cleveland Heights City Beckers",
+    "Player Name": "Mozell Nader",
+    "Player Number": 36,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The North Lauderdale City Keelings",
+    "Player Name": "Lexie Schoen",
+    "Player Number": 70,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Corpus Christi City Krajciks",
+    "Player Name": "Arnoldo Goyette",
+    "Player Number": 63,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Tamiami City Strackes",
+    "Player Name": "Allison Stracke",
+    "Player Number": 19,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Lake Forest City Schmidts",
+    "Player Name": "Lauryn Bogan",
+    "Player Number": 50,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Racine City Klings",
+    "Player Name": "Delfina Weimann",
+    "Player Number": 5,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Waukegan City Maggios",
+    "Player Name": "Jasmin Veum",
+    "Player Number": 94,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Carolina City Uptons",
+    "Player Name": "Isabell Wintheiser",
+    "Player Number": 76,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Boston City Ortizs",
+    "Player Name": "Dorothea Wintheiser",
+    "Player Number": 7,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Orange City Faheys",
+    "Player Name": "Ari Schimmel",
+    "Player Number": 19,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The North Bethesda City Hermans",
+    "Player Name": "Ellsworth Mayer",
+    "Player Number": 89,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Lehigh Acres City Schmidts",
+    "Player Name": "Jewell Gleichner",
+    "Player Number": 98,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Alexandria City Dibberts",
+    "Player Name": "Drake DuBuque",
+    "Player Number": 98,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Burke City Nikolauss",
+    "Player Name": "Jon Waelchi",
+    "Player Number": 24,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Southfield City Hammess",
+    "Player Name": "Nicholas Waters",
+    "Player Number": 61,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The West Valley City City Shieldss",
+    "Player Name": "Lourdes Brown",
+    "Player Number": 48,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Compton City Littels",
+    "Player Name": "Lysanne Konopelski",
+    "Player Number": 13,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Battle Creek City Renners",
+    "Player Name": "Emanuel Tremblay",
+    "Player Number": 91,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Titusville City Markss",
+    "Player Name": "Jordi Hoppe",
+    "Player Number": 4,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Mishawaka City Mayers",
+    "Player Name": "Charlene Stark",
+    "Player Number": 25,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Hemet City Streichs",
+    "Player Name": "Franco Schiller",
+    "Player Number": 73,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Bloomington City Ratkes",
+    "Player Name": "Ayana Smitham",
+    "Player Number": 98,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 25
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Hialeah City Lueilwitzs",
+    "Player Name": "Emelie Effertz",
+    "Player Number": 20,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 21
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The North Charleston City Renners",
+    "Player Name": "Darlene Ledner",
+    "Player Number": 84,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The South Whittier City Stamms",
+    "Player Name": "Demario Ebert",
+    "Player Number": 82,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Sandy City Lehners",
+    "Player Name": "Lindsay Gorczany",
+    "Player Number": 10,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 21
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Yucaipa City Gerholds",
+    "Player Name": "Seth Borer",
+    "Player Number": 16,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Montebello City Windlers",
+    "Player Name": "Jaunita Hoeger",
+    "Player Number": 22,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Bayonne City Walters",
+    "Player Name": "Yadira Medhurst",
+    "Player Number": 65,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Paradise City Bodes",
+    "Player Name": "Susie Jones",
+    "Player Number": 19,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Arlington Heights City Durgans",
+    "Player Name": "Efrain Purdy",
+    "Player Number": 71,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Bolingbrook City Strosins",
+    "Player Name": "Jedidiah Doyle",
+    "Player Number": 22,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Fountain Valley City Padbergs",
+    "Player Name": "Ed Simonis",
+    "Player Number": 98,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Huntington Beach City Rolfsons",
+    "Player Name": "Brennan Herman",
+    "Player Number": 30,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 24
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Thornton City Faheys",
+    "Player Name": "Humberto Jast",
+    "Player Number": 75,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Longmont City Legross",
+    "Player Name": "Bailey Kutch",
+    "Player Number": 40,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Austin City Jaskolskis",
+    "Player Name": "Myrtice Wehner",
+    "Player Number": 65,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The West Covina City Ziemanns",
+    "Player Name": "Alaina Bogan",
+    "Player Number": 3,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Pasadena City Wunschs",
+    "Player Name": "Maida Harvey",
+    "Player Number": 42,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Anderson City Wilkinsons",
+    "Player Name": "Beulah Davis",
+    "Player Number": 73,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 0
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Coon Rapids City Thiels",
+    "Player Name": "Kelsi Kuhic",
+    "Player Number": 9,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Kent City Ryans",
+    "Player Name": "Murray Kunde",
+    "Player Number": 37,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Ocala City Kuhics",
+    "Player Name": "Kale Tromp",
+    "Player Number": 36,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Yonkers City Goldners",
+    "Player Name": "Antoinette Gislason",
+    "Player Number": 47,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 21
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The West Lafayette City Strackes",
+    "Player Name": "Hollis Greenfelder",
+    "Player Number": 21,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Waldorf City McCulloughs",
+    "Player Name": "Bettie Jenkins",
+    "Player Number": 60,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Minot City Ziemes",
+    "Player Name": "Berta Treutel",
+    "Player Number": 80,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Bridgeport City Thompsons",
+    "Player Name": "Dale Schaefer",
+    "Player Number": 96,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Louisville/Jefferson County City Treutels",
+    "Player Name": "Eloy Hackett",
+    "Player Number": 2,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Alexandria City Millss",
+    "Player Name": "Ansley Gutmann",
+    "Player Number": 99,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 21
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Longview City Christiansens",
+    "Player Name": "Ray Dickens",
+    "Player Number": 2,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Boston City Rippins",
+    "Player Name": "May Lindgren",
+    "Player Number": 38,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Providence City Kochs",
+    "Player Name": "Willard Quigley",
+    "Player Number": 21,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The New Braunfels City Beers",
+    "Player Name": "Spencer Bogisich",
+    "Player Number": 60,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Lafayette City Turcottes",
+    "Player Name": "Evan Predovic",
+    "Player Number": 16,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Beaverton City Thiels",
+    "Player Name": "Brennon Schultz",
+    "Player Number": 63,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Spring Valley City Balistreris",
+    "Player Name": "Ronny Yundt",
+    "Player Number": 79,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Portage City Rosenbaums",
+    "Player Name": "Anais Gutmann",
+    "Player Number": 57,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Santa Fe City Streichs",
+    "Player Name": "Nola Krajcik",
+    "Player Number": 96,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Boynton Beach City Wunschs",
+    "Player Name": "Colin Upton",
+    "Player Number": 1,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 25
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Pleasanton City Schroeders",
+    "Player Name": "Destini Carroll",
+    "Player Number": 37,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 21
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Fairfield City Hanes",
+    "Player Name": "Jake Ondricka",
+    "Player Number": 39,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Shawnee City McDermotts",
+    "Player Name": "Alta Cassin",
+    "Player Number": 94,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 25
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Ceres City Hillss",
+    "Player Name": "Johnathan Schmeler",
+    "Player Number": 42,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Moreno Valley City Kutchs",
+    "Player Name": "Oma Kub",
+    "Player Number": 2,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Beaumont City Dickinsons",
+    "Player Name": "Tyrique Nicolas",
+    "Player Number": 96,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Flint City Harveys",
+    "Player Name": "Hermann Kiehn",
+    "Player Number": 36,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Tulare City Stamms",
+    "Player Name": "Flavie Rowe",
+    "Player Number": 55,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The East Orange City Vons",
+    "Player Name": "Justyn Hessel",
+    "Player Number": 52,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Murray City Abbotts",
+    "Player Name": "Jason Feil",
+    "Player Number": 69,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Flower Mound City Rutherfords",
+    "Player Name": "Pinkie Roberts",
+    "Player Number": 58,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Tuckahoe City Satterfields",
+    "Player Name": "Sally Wilderman",
+    "Player Number": 79,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Winston-Salem City Wuckerts",
+    "Player Name": "Audie Hermiston",
+    "Player Number": 5,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Jackson City Nolans",
+    "Player Name": "Alberto Emard",
+    "Player Number": 95,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Sanford City Sanfords",
+    "Player Name": "Mazie Heathcote",
+    "Player Number": 14,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Columbus City Keeblers",
+    "Player Name": "Schuyler Marks",
+    "Player Number": 59,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Danbury City Carters",
+    "Player Name": "Devan Collier",
+    "Player Number": 81,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 0
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Palo Alto City Dooleys",
+    "Player Name": "Angelita Keeling",
+    "Player Number": 65,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Middletown City Gutmanns",
+    "Player Name": "Estella Rau",
+    "Player Number": 32,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Hartford City Connellys",
+    "Player Name": "Gregg Moore",
+    "Player Number": 3,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Daytona Beach City Kuhns",
+    "Player Name": "Casey Rogahn",
+    "Player Number": 22,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 0
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Cicero City Bergstroms",
+    "Player Name": "Cara Schneider",
+    "Player Number": 88,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Johnson City City Lefflers",
+    "Player Name": "Kurtis Howell",
+    "Player Number": 50,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Menifee City Walkers",
+    "Player Name": "Collin Windler",
+    "Player Number": 90,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The North Little Rock City Mohrs",
+    "Player Name": "Israel Marks",
+    "Player Number": 25,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 30
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Spring City Kundes",
+    "Player Name": "Julius VonRueden",
+    "Player Number": 76,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Newton City Waelchis",
+    "Player Name": "Carolanne Reichel",
+    "Player Number": 60,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Clarksville City Kochs",
+    "Player Name": "Nona Ratke",
+    "Player Number": 66,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Schaumburg City Bergnaums",
+    "Player Name": "Darron Hilll",
+    "Player Number": 89,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Huntington City Bartells",
+    "Player Name": "Bernie Schaefer",
+    "Player Number": 80,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 25
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Monterey Park City McClures",
+    "Player Name": "Lowell Tillman",
+    "Player Number": 51,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Lehigh Acres City Mayerts",
+    "Player Name": "Sydney Bruen",
+    "Player Number": 14,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The East Los Angeles City Okunevas",
+    "Player Name": "Kelsi Lockman",
+    "Player Number": 39,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Mission Viejo City Boyers",
+    "Player Name": "Emilio Funk",
+    "Player Number": 44,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Collierville City Starks",
+    "Player Name": "Lisette Mills",
+    "Player Number": 48,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Bloomington City Raus",
+    "Player Name": "Myrl Lind",
+    "Player Number": 8,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Dothan City Welchs",
+    "Player Name": "Emile Roob",
+    "Player Number": 48,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Hialeah City Bergstroms",
+    "Player Name": "Dessie Gusikowski",
+    "Player Number": 40,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Fort Pierce City Littles",
+    "Player Name": "Andy Nienow",
+    "Player Number": 2,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Baldwin Park City Bartons",
+    "Player Name": "Marcelina Jones",
+    "Player Number": 71,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Bentonville City Thompsons",
+    "Player Name": "Monica Schmeler",
+    "Player Number": 3,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Aloha City Stantons",
+    "Player Name": "Halie Ratke",
+    "Player Number": 43,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Medford City Brekkes",
+    "Player Name": "Alexander Stiedemann",
+    "Player Number": 26,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Roseville City Muellers",
+    "Player Name": "Nichole Huel",
+    "Player Number": 78,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Wellington City Parkers",
+    "Player Name": "Angelina West",
+    "Player Number": 52,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Richland City Thiels",
+    "Player Name": "Carli Graham",
+    "Player Number": 10,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Orange City Weimanns",
+    "Player Name": "Vincent Champlin",
+    "Player Number": 4,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Topeka City Bruens",
+    "Player Name": "Jewel Emard",
+    "Player Number": 48,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 0
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Dublin City Baumbachs",
+    "Player Name": "Easton Swift",
+    "Player Number": 88,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The East Lansing City Lynchs",
+    "Player Name": "Breanna Zulauf",
+    "Player Number": 39,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Sterling Heights City Heidenreichs",
+    "Player Name": "Ike McGlynn",
+    "Player Number": 33,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Pearl City City Mohrs",
+    "Player Name": "Thalia Senger",
+    "Player Number": 14,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Hutchinson City Tillmans",
+    "Player Name": "Lina Dare",
+    "Player Number": 34,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Baltimore City Stiedemanns",
+    "Player Name": "Marlee Grady",
+    "Player Number": 85,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Waldorf City McLaughlins",
+    "Player Name": "Myrtice Hilpert",
+    "Player Number": 29,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Orland Park City Auers",
+    "Player Name": "Hellen Torphy",
+    "Player Number": 39,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Elmhurst City Dares",
+    "Player Name": "Madaline Erdman",
+    "Player Number": 44,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Pasco City Vandervorts",
+    "Player Name": "Titus Fritsch",
+    "Player Number": 55,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Folsom City Johnss",
+    "Player Name": "Gaston Bogisich",
+    "Player Number": 71,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 24
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Valdosta City Whites",
+    "Player Name": "Ellis Halvorson",
+    "Player Number": 17,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Deerfield Beach City Johnss",
+    "Player Name": "Toy Kutch",
+    "Player Number": 14,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Cupertino City Mantes",
+    "Player Name": "Alva Howell",
+    "Player Number": 46,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 30
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Fayetteville City O'Haras",
+    "Player Name": "Dee Stokes",
+    "Player Number": 94,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Bristol City Yundts",
+    "Player Name": "Kiley Hagenes",
+    "Player Number": 48,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 24
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Brookhaven City Abbotts",
+    "Player Name": "Theodora Reilly",
+    "Player Number": 65,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Plainfield City Conroys",
+    "Player Name": "Zackery Bode",
+    "Player Number": 69,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Lubbock City Swaniawskis",
+    "Player Name": "Maritza Muller",
+    "Player Number": 32,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The National City City Lindgrens",
+    "Player Name": "Gregorio Nicolas",
+    "Player Number": 75,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Redmond City Metzs",
+    "Player Name": "Samanta Reinger",
+    "Player Number": 15,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Garland City Veums",
+    "Player Name": "Daphne Hansen",
+    "Player Number": 36,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Jurupa Valley City Millss",
+    "Player Name": "Elsa Stehr",
+    "Player Number": 40,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Lynwood City Gislasons",
+    "Player Name": "David Lockman",
+    "Player Number": 40,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Ashburn City Blocks",
+    "Player Name": "Alessandra Botsford",
+    "Player Number": 41,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Chula Vista City Hamills",
+    "Player Name": "Elfrieda Goldner",
+    "Player Number": 10,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The DeKalb City Lindgrens",
+    "Player Name": "Verlie Robel",
+    "Player Number": 94,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Delano City Yundts",
+    "Player Name": "Greta Breitenberg",
+    "Player Number": 70,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Seattle City Pauceks",
+    "Player Name": "Amara Kilback",
+    "Player Number": 31,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Greeley City Legross",
+    "Player Name": "Kiana Schultz",
+    "Player Number": 66,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Passaic City Browns",
+    "Player Name": "Domenick Price",
+    "Player Number": 3,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Lakeland City Kings",
+    "Player Name": "Edgardo Hintz",
+    "Player Number": 0,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Cranston City Veums",
+    "Player Name": "Guido Hessel",
+    "Player Number": 48,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Gaithersburg City Sawayns",
+    "Player Name": "Virgie Torp",
+    "Player Number": 56,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Sterling Heights City Kuhlmans",
+    "Player Name": "Elmira Weimann",
+    "Player Number": 64,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Troy City Auers",
+    "Player Name": "Amalia Rosenbaum",
+    "Player Number": 42,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Yucaipa City Dietrichs",
+    "Player Name": "German Hamill",
+    "Player Number": 96,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Chicopee City Schumms",
+    "Player Name": "Wyatt Rutherford",
+    "Player Number": 16,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Ellicott City City Morissettes",
+    "Player Name": "Marcia Crona",
+    "Player Number": 34,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Fargo City Lubowitzs",
+    "Player Name": "Cloyd Vandervort",
+    "Player Number": 45,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Louisville/Jefferson County City Hyatts",
+    "Player Name": "Wilfredo Rodriguez",
+    "Player Number": 26,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Palm Harbor City Gleasons",
+    "Player Name": "Alvena Kozey",
+    "Player Number": 78,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Ceres City O'Reillys",
+    "Player Name": "Everette Cartwright",
+    "Player Number": 71,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Monroe City Andersons",
+    "Player Name": "Della Russel",
+    "Player Number": 21,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Allentown City Renners",
+    "Player Name": "Harmony Bosco",
+    "Player Number": 36,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The San Luis Obispo City Hansens",
+    "Player Name": "Dangelo Kautzer",
+    "Player Number": 68,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The San Bruno City Metzs",
+    "Player Name": "Geo Nolan",
+    "Player Number": 55,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Berkeley City Wizas",
+    "Player Name": "Johnathon Walker",
+    "Player Number": 34,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 21
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Hialeah City Effertzs",
+    "Player Name": "Earnest Stokes",
+    "Player Number": 65,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Clovis City Wehners",
+    "Player Name": "Maye Keeling",
+    "Player Number": 84,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The San Francisco City Flatleys",
+    "Player Name": "Jewel Luettgen",
+    "Player Number": 81,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Asheville City Reicherts",
+    "Player Name": "Alanna Jenkins",
+    "Player Number": 14,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Kennewick City Moores",
+    "Player Name": "Rosalyn Bartell",
+    "Player Number": 55,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Elyria City Prices",
+    "Player Name": "Marcus Crooks",
+    "Player Number": 93,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Lake Havasu City City Turcottes",
+    "Player Name": "Pedro Brakus",
+    "Player Number": 95,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 0
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Littleton City Ortizs",
+    "Player Name": "Ron Bartell",
+    "Player Number": 54,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Lafayette City Breitenbergs",
+    "Player Name": "Zion Douglas",
+    "Player Number": 94,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Buckeye City Wymans",
+    "Player Name": "Deborah Stoltenberg",
+    "Player Number": 82,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Levittown City Quitzons",
+    "Player Name": "Mallie Keeling",
+    "Player Number": 20,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Irving City Berges",
+    "Player Name": "Mateo O'Hara",
+    "Player Number": 90,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Highlands Ranch City Bodes",
+    "Player Name": "Shannon Zboncak",
+    "Player Number": 19,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 12
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Brandon City Jerdes",
+    "Player Name": "Katelynn Graham",
+    "Player Number": 17,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The St. Clair Shores City Hoegers",
+    "Player Name": "Arjun Bashirian",
+    "Player Number": 16,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Hicksville City Waterss",
+    "Player Name": "Gilberto Stanton",
+    "Player Number": 10,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Temecula City Rempels",
+    "Player Name": "Modesto Weber",
+    "Player Number": 85,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Brookline City Browns",
+    "Player Name": "Cristal Mayer",
+    "Player Number": 66,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Turlock City Schusters",
+    "Player Name": "Estel Cummings",
+    "Player Number": 39,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Ann Arbor City McKenzies",
+    "Player Name": "Lilliana Hammes",
+    "Player Number": 60,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 25
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Redondo Beach City Roobs",
+    "Player Name": "Wilhelmine Williamson",
+    "Player Number": 81,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Rochester City Wiegands",
+    "Player Name": "Wilfred Wilderman",
+    "Player Number": 44,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Hamilton City Andersons",
+    "Player Name": "Aileen Herzog",
+    "Player Number": 70,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Brookhaven City Abernathys",
+    "Player Name": "Norbert Hermiston",
+    "Player Number": 84,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Springdale City Cruickshanks",
+    "Player Name": "Julianne Stracke",
+    "Player Number": 85,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Fishers City Joness",
+    "Player Name": "Kyler Murray",
+    "Player Number": 31,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Wilmington City Grants",
+    "Player Name": "Glenda Fay",
+    "Player Number": 89,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Waukegan City Heidenreichs",
+    "Player Name": "Haylie Predovic",
+    "Player Number": 3,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The West Covina City Osinskis",
+    "Player Name": "Brody Ankunding",
+    "Player Number": 42,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The El Centro City Pouross",
+    "Player Name": "Demarco Shields",
+    "Player Number": 42,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 26
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Paradise City Uptons",
+    "Player Name": "Simone Ebert",
+    "Player Number": 2,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 21
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Mansfield City O'Keefes",
+    "Player Name": "Asa Stark",
+    "Player Number": 12,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Greenville City Bartons",
+    "Player Name": "Lawson Larkin",
+    "Player Number": 38,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The St. Clair Shores City Kreigers",
+    "Player Name": "Viviane Stroman",
+    "Player Number": 54,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Portsmouth City Bernhards",
+    "Player Name": "Leonie O'Hara",
+    "Player Number": 12,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Bossier City City Hoegers",
+    "Player Name": "Khalil Flatley",
+    "Player Number": 63,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 30
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The North Miami City Kihns",
+    "Player Name": "Tyra Reichel",
+    "Player Number": 73,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Midland City Terrys",
+    "Player Name": "Billie Leffler",
+    "Player Number": 39,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Reno City Shanahans",
+    "Player Name": "Zaria Hermann",
+    "Player Number": 49,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Aurora City Torps",
+    "Player Name": "Lillian Corkery",
+    "Player Number": 86,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 30
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Petaluma City Wisozks",
+    "Player Name": "Robyn Turcotte",
+    "Player Number": 24,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Sandy City Abshires",
+    "Player Name": "Stacy Jenkins",
+    "Player Number": 41,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Bartlett City Wizas",
+    "Player Name": "Verlie Schmitt",
+    "Player Number": 35,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Huntington Beach City Fays",
+    "Player Name": "Dandre Witting",
+    "Player Number": 22,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Kansas City City Lynchs",
+    "Player Name": "Loren Koss",
+    "Player Number": 93,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Lacey City O'Reillys",
+    "Player Name": "Russell Cronin",
+    "Player Number": 54,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 2
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Wichita City Crists",
+    "Player Name": "Beth Keeling",
+    "Player Number": 32,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Danville City Uptons",
+    "Player Name": "Nicholaus Stanton",
+    "Player Number": 16,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Oakland City Volkmans",
+    "Player Name": "Kennith Walker",
+    "Player Number": 49,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Vista City Mayerts",
+    "Player Name": "Bertram Glover",
+    "Player Number": 13,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The North Port City Marquardts",
+    "Player Name": "Kacey Jacobson",
+    "Player Number": 24,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Lawrence City Kovaceks",
+    "Player Name": "Dax Conroy",
+    "Player Number": 85,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 12
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Spokane City Bradtkes",
+    "Player Name": "Cristal Schmidt",
+    "Player Number": 72,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The South Bend City Eberts",
+    "Player Name": "Lue Waters",
+    "Player Number": 74,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Murray City Millers",
+    "Player Name": "Jazmyne White",
+    "Player Number": 60,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Elmhurst City Cummingss",
+    "Player Name": "Arden Rodriguez",
+    "Player Number": 72,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Beaverton City Stoltenbergs",
+    "Player Name": "Jaylan Halvorson",
+    "Player Number": 83,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Hamilton City Wards",
+    "Player Name": "Ryann Berge",
+    "Player Number": 83,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Elgin City Schillers",
+    "Player Name": "Katelyn Reynolds",
+    "Player Number": 77,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Lauderhill City Walters",
+    "Player Name": "Lori Bins",
+    "Player Number": 78,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Smyrna City Leuschkes",
+    "Player Name": "Florencio Jast",
+    "Player Number": 83,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Gaithersburg City Greens",
+    "Player Name": "Bennie Doyle",
+    "Player Number": 73,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The St. Cloud City Windlers",
+    "Player Name": "Norbert Nader",
+    "Player Number": 9,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Bonita Springs City Champlins",
+    "Player Name": "Abbey Homenick",
+    "Player Number": 94,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Belleville City Blicks",
+    "Player Name": "Aubrey Turner",
+    "Player Number": 74,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Waterloo City Haags",
+    "Player Name": "Willie Erdman",
+    "Player Number": 73,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Frederick City Powlowskis",
+    "Player Name": "May Cassin",
+    "Player Number": 53,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 30
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Santa Barbara City Bergnaums",
+    "Player Name": "Joana Nitzsche",
+    "Player Number": 10,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Hackensack City Stehrs",
+    "Player Name": "Camden Kris",
+    "Player Number": 36,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Towson City Lakins",
+    "Player Name": "Geoffrey Dicki",
+    "Player Number": 65,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Wellington City Feeneys",
+    "Player Name": "Nyah Barrows",
+    "Player Number": 59,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Lenexa City Labadies",
+    "Player Name": "Ed Schumm",
+    "Player Number": 98,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Hoffman Estates City Mayerts",
+    "Player Name": "Patsy Heller",
+    "Player Number": 44,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 6
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The High Point City Raynors",
+    "Player Name": "Dangelo Kuhn",
+    "Player Number": 64,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Roseville City Beckers",
+    "Player Name": "Lourdes Rice",
+    "Player Number": 36,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Sioux Falls City Rogahns",
+    "Player Name": "Darryl Beer",
+    "Player Number": 89,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 12
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Joplin City Nikolauss",
+    "Player Name": "Gennaro Kiehn",
+    "Player Number": 44,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Elyria City DuBuques",
+    "Player Name": "Cleve Tremblay",
+    "Player Number": 11,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 24
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Vista City Hoppes",
+    "Player Name": "Stella Mann",
+    "Player Number": 63,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Highland City Ledners",
+    "Player Name": "Eulah Runte",
+    "Player Number": 6,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The St. Charles City Yosts",
+    "Player Name": "Jaclyn Mante",
+    "Player Number": 94,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Petaluma City Ziemanns",
+    "Player Name": "Andreanne Keeling",
+    "Player Number": 80,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Florin City Wunschs",
+    "Player Name": "Kade Kshlerin",
+    "Player Number": 96,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Moore City Conroys",
+    "Player Name": "Constance Boehm",
+    "Player Number": 15,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Hayward City Stoltenbergs",
+    "Player Name": "Tremaine Paucek",
+    "Player Number": 99,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 25
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Norman City Blicks",
+    "Player Name": "Marge Casper",
+    "Player Number": 35,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The La Mirada City Breitenbergs",
+    "Player Name": "Darby Gibson",
+    "Player Number": 74,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The East Orange City Buckridges",
+    "Player Name": "Sandra Heaney",
+    "Player Number": 60,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Garden Grove City Strosins",
+    "Player Name": "Maryse Runolfsson",
+    "Player Number": 36,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 25
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Springfield City Kozeys",
+    "Player Name": "Katlynn Cassin",
+    "Player Number": 98,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 25
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Cypress City Bradtkes",
+    "Player Name": "Mckenzie Stokes",
+    "Player Number": 98,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 24
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Los Angeles City Schowalters",
+    "Player Name": "Cynthia Durgan",
+    "Player Number": 84,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Des Moines City Hermans",
+    "Player Name": "Margarita Jerde",
+    "Player Number": 85,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Tonawanda City Whites",
+    "Player Name": "Bobbie Steuber",
+    "Player Number": 76,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Grapevine City Zulaufs",
+    "Player Name": "Octavia Mitchell",
+    "Player Number": 80,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 21
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Hialeah City Runtes",
+    "Player Name": "Carlie Heaney",
+    "Player Number": 86,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Santa Barbara City Lakins",
+    "Player Name": "Leonora Windler",
+    "Player Number": 49,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 30
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Colton City Sporers",
+    "Player Name": "Melyna Ortiz",
+    "Player Number": 54,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Meriden City Kuhics",
+    "Player Name": "Veda Haag",
+    "Player Number": 87,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 0
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Catonsville City Bashirians",
+    "Player Name": "Marina Hyatt",
+    "Player Number": 26,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Bountiful City Spinkas",
+    "Player Name": "Myles Fritsch",
+    "Player Number": 83,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 23
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The New Brunswick City Gleasons",
+    "Player Name": "Jose Dietrich",
+    "Player Number": 68,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Salt Lake City City Dares",
+    "Player Name": "Maritza Runolfsson",
+    "Player Number": 17,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 4
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Metairie City McGlynns",
+    "Player Name": "Nakia Dare",
+    "Player Number": 77,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Edmond City Ankundings",
+    "Player Name": "Gerda Kunze",
+    "Player Number": 19,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Aurora City Rueckers",
+    "Player Name": "Amie Fritsch",
+    "Player Number": 80,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Rancho Cucamonga City Bogans",
+    "Player Name": "Lee Daniel",
+    "Player Number": 99,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 1
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Grand Prairie City Kozeys",
+    "Player Name": "Amanda Zulauf",
+    "Player Number": 91,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 17
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Germantown City Tillmans",
+    "Player Name": "Demetrius Conroy",
+    "Player Number": 11,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 14
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The West Allis City Mrazs",
+    "Player Name": "Tomasa Buckridge",
+    "Player Number": 53,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 8
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Arcadia City McGlynns",
+    "Player Name": "Allan Emmerich",
+    "Player Number": 18,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Victorville City Uptons",
+    "Player Name": "Zita Jerde",
+    "Player Number": 36,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Savannah City Keeblers",
+    "Player Name": "Billy Morissette",
+    "Player Number": 26,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 12
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The San Mateo City Rutherfords",
+    "Player Name": "Ova Kiehn",
+    "Player Number": 23,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Haltom City City Daviss",
+    "Player Name": "Orrin Bernhard",
+    "Player Number": 32,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Hesperia City Macejkovics",
+    "Player Name": "Arno Nicolas",
+    "Player Number": 79,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 16
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Deerfield Beach City Weissnats",
+    "Player Name": "Leatha Kunze",
+    "Player Number": 53,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 20
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Taunton City Hellers",
+    "Player Name": "Christ Considine",
+    "Player Number": 69,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Dearborn City Stromans",
+    "Player Name": "Ted Padberg",
+    "Player Number": 11,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Port Orange City Borers",
+    "Player Name": "Veronica Heller",
+    "Player Number": 16,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Revere City Gorczanys",
+    "Player Name": "Sofia Wolff",
+    "Player Number": 36,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 7
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Bryan City Bernhards",
+    "Player Name": "Zoey Mraz",
+    "Player Number": 0,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 10
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Edinburg City Stokess",
+    "Player Name": "Fredy Fahey",
+    "Player Number": 77,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Waldorf City Swifts",
+    "Player Name": "Cletus Schumm",
+    "Player Number": 55,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 28
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Hacienda Heights City Willmss",
+    "Player Name": "Savion O'Reilly",
+    "Player Number": 38,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Irving City Doyles",
+    "Player Name": "Sam Treutel",
+    "Player Number": 76,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 24
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Flint City Hartmanns",
+    "Player Name": "Dell Effertz",
+    "Player Number": 28,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 9
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Texas City City Christiansens",
+    "Player Name": "Nolan Farrell",
+    "Player Number": 54,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Altadena City Fadels",
+    "Player Name": "Theo Ortiz",
+    "Player Number": 18,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Sacramento City Kautzers",
+    "Player Name": "Wade Beatty",
+    "Player Number": 70,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The San Jacinto City Skiless",
+    "Player Name": "Jarvis Hayes",
+    "Player Number": 47,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 18
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Santa Rosa City Spinkas",
+    "Player Name": "Mikayla Klein",
+    "Player Number": 79,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 22
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Fairfield City Luettgens",
+    "Player Name": "Weston O'Hara",
+    "Player Number": 29,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 27
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Soccer",
+    "Team": "The Flint City Nikolauss",
+    "Player Name": "Wilton Barrows",
+    "Player Number": 38,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 12
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Fayetteville City Wilkinsons",
+    "Player Name": "Lesly Gaylord",
+    "Player Number": 22,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 3
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Pittsburgh City Connellys",
+    "Player Name": "Saul Pagac",
+    "Player Number": 7,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 29
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Taylor City McLaughlins",
+    "Player Name": "Christa Steuber",
+    "Player Number": 0,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Boston City Barrowss",
+    "Player Name": "Kelly Berge",
+    "Player Number": 46,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 13
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Delray Beach City Adamss",
+    "Player Name": "Robb Sipes",
+    "Player Number": 9,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 15
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BaseBall",
+    "Team": "The Coon Rapids City Bauchs",
+    "Player Name": "Mavis Kunze",
+    "Player Number": 37,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 19
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "FootBall",
+    "Team": "The Long Beach City Gutkowskis",
+    "Player Name": "Oswald Tremblay",
+    "Player Number": 88,
+    "Printed year": null,
+    "Signed Copy": "Yes",
+    "Quantity": 11
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "BasketBall",
+    "Team": "The Hicksville City Ziemanns",
+    "Player Name": "Andreanne Nienow",
+    "Player Number": 47,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 5
+  },
+  {
+    "ItemType": "Sport Card",
+    "Sport": "Hockey",
+    "Team": "The Lodi City Kundes",
+    "Player Name": "Haven Corkery",
+    "Player Number": 20,
+    "Printed year": null,
+    "Signed Copy": "No",
+    "Quantity": 14
+  }
+]
